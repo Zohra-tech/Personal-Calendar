@@ -1,1 +1,2 @@
 # Personal-Calendar
+My project is a Personal Smart Calendar and Reminder System. Unlike a traditional academic calendar, this application allows users to manage both academic responsibilities and personal activities in one place. Users can create events, assign categories, select dates and times, and choose how early they want to be reminded. The system then identifies upcoming events and displays reminders to help users avoid missing important tasks or appointments.
