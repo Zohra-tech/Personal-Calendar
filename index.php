@@ -214,11 +214,11 @@ $today = date("Y-m-d");
 
     <div class="calendar-actions">
 
-        <a
-            href="add_event.php"
-            class="add-button"
-        >
+        <a href="add_event.php" class="add-button">
             + Add New Event
+        </a>
+        <a href="reminders.php" class="add-button">
+            🔔 Reminders
         </a>
 
     </div>

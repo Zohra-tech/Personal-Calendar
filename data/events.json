@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "6ac681f473c25",
+        "title": "Dinner plan",
+        "category": "Family",
+        "date": "2026-10-15",
+        "time": "08:00",
+        "reminder": "5",
+        "description": ""
+    }
+]
